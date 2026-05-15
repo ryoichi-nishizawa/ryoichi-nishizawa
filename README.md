@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## ✍️ Latest Technical Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 🎮 Playable Tech Demos (itch.io)
+[![itch.io](https://img.shields.io/badge/itch.io-👋_Play_My_Demos-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://ryoichi-nishizawa.itch.io/)
+
+*Now preparing some technical prototypes and demos! Stay tuned.*
+
 <!--
 **ryoichi-nishizawa/ryoichi-nishizawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
