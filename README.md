@@ -2,6 +2,7 @@
 
 ## ✍️ Latest Technical Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Show Dev: I built a 3D Basketball Shooting Game with Unity &amp; C# 🏀](https://dev.to/ryoichi-nishizawa/show-dev-i-built-a-3d-basketball-shooting-game-with-unity-c-21de)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎮 Playable Tech Demos (itch.io)
